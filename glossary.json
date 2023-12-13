@@ -5,10 +5,10 @@
             "title": "S",
 			"GlossList": {
                 "GlossEntry": {
-                    "ID": "SDGML",
-					"SortAs": "SDGML",
+                    "ID": "SDL",
+					"SortAs": "SDL",
 					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SDGML",
+					"Acronym": "SDL",
 					"Abbrev": "ISO 8879:1986",
 					"GlossDef": {
                         "para": "A meta-markup language, used to create markup languages such as DocBook.",
