@@ -6,7 +6,7 @@
 			"GlossList": {
                 "GlossEntry": {
                     "ID": "SDLG1",
-					"SortAs": "SDLG",
+					"SortAs": "SDLG1",
 					"GlossTerm": "Standard Generalized Markup Language",
 					"Acronym": "SDLG",
 					"Abbrev": "ISO 8879:1986",
