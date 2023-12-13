@@ -5,8 +5,8 @@
             "title": "S",
 			"GlossList": {
                 "GlossEntry": {
-                    "ID": "SDLG1",
-					"SortAs": "SDLG1",
+                    "ID": "SDLG2",
+					"SortAs": "SDLG2",
 					"GlossTerm": "Standard Generalized Markup Language",
 					"Acronym": "SDLG1",
 					"Abbrev": "ISO 8879:1986",
