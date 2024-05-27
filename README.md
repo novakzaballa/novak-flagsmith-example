@@ -1,3 +1,1 @@
 # novak-flagsmith-example
-
-test
